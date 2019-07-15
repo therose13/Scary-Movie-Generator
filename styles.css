@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+h1{
+  color:black;
+  font-size: 50px;
+  font-family: Source Code Pro, monospace;
+
+}
+
+body{
+  margin:0;
+  padding:0;
+  background-image:linear-gradient(orange,black);
+}
+
+div {
+  border: 5px solid black;
+  height: 1000px;
+
+}
+
+button{
+  height:200px;
+  width:200px;
+  margin:25px;
+  padding:20px;
+  font-size: 50px;
+  font-family:Source Code Pro, monospace;
+  border:5px solid black;
+  border-radius: 100%;
+  background-color: grey;
+
+}
+img{
+  height:300px;
+}
